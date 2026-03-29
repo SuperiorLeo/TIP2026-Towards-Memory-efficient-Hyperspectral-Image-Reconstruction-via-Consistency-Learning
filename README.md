@@ -77,8 +77,8 @@ The data generated during training will be recorded in `/results/`.
 ```shell
 python test_model1_entire.py
 ```
-- Our trainable parameters, logs, pth, and final mat, have been put in the fold ''results''.
-
+- Our trainable parameters, logs, pth, and final mat, have been put in the fold ''results''. The reconstructed HSI can be obtained in [0108](https://pan.baidu.com/s/1OcVI9YiiLe6gIDHHdLvvJA)  
+  
 ## Citation
 If you find this code helpful, please kindly cite:
 ```shell
