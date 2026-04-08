@@ -83,7 +83,16 @@ python test_model1_entire.py
 If you find this code helpful, please kindly cite:
 ```shell
 # MTSSR
-Coming Soon.
+@ARTICLE{MTSSR,
+  author={Leng, Yihong and Li, Jiaojiao and Song, Rui and Xu, Haitao and Li, Yunsong and Du, Qian},
+  journal={IEEE Transactions on Image Processing}, 
+  title={Towards Memory-efficient Hyperspectral Image Reconstruction via Consistency Learning}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Feeds;Frequency modulation;Radio broadcasting;Filtering;Filters;Pixel;Frequency modulation;Modulation;Electronic mail;Radio broadcasting;semi-supervised;contrastive learning;spectral reconstruction;memory bank;hyperspectral image reconstruction},
+  doi={10.1109/TIP.2026.3680005}}
 ```
 
 ## Acknowledgement
